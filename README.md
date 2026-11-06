@@ -12,3 +12,4 @@ Objectives
 
 Member name               Registration number
 Malcolm Mahlengezana.     N02643222D
+Devonna Nyemba.           N02643851V
