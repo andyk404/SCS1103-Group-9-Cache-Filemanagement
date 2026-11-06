@@ -17,3 +17,4 @@ Objectives
 |Eliwedd Jnr Muzavazi. | N02652495B|
 | Pardon T Karimanzira | N02649947V|
 | Recaldo Chapfuwa | N02423237N |
+Name surname. student number 
