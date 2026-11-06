@@ -1,5 +1,3 @@
-Eliwedd Jnr Muzavazi N02652495B
-
 Title: Which Blocks Deserve the Cache? FIFO vs LRU on a Storage Request Trace.
 
 Question: Does least recently used (LRU) replacement give a higher block-cache hit rate than first in first out (FIFO) on a public Meta storage trace, at the same cache size?
@@ -16,4 +14,4 @@ Objectives
 | Malcolm Mahlengezana. | N02643222D |
 | Devonna Nyemba. | N02643851V |
 | Andy Mbodza. | N02646755H |
-
+|Eliwedd Jnr Muzavazi. | N02652495B|
