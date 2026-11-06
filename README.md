@@ -18,3 +18,4 @@ Objectives
 | Pardon T Karimanzira | N02649947V|
 | Recaldo Chapfuwa | N02423237N |
 | Pamela Mugonda | N02536206N |
+|Kuonga T Mapako | N0230585M  |
