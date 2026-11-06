@@ -10,6 +10,10 @@ Objectives
 2. Run both policies on a sample of the 2023 Meta storage trace, at five cache sizes (1%, 2%, 5%, 10% and 20% of the unique blocks in the sample).
 3. Evaluate by measuring hit rate and number of misses at each size, with FIFO as the baseline. LRU succeeds if its hit rate is at least 5 percentage points above FIFO at 3 or more of the 5 sizes. We first check the simulator against a hand-worked 10-request example.
 
-Member name               Registration number
-Malcolm Mahlengezana.     N02643222D
-Devonna Nyemba.           N02643851V
+
+| Member Name | Registration Number |
+| :--- | :--- |
+| Malcolm Mahlengezana. | N02643222D |
+| Devonna Nyemba. | N02643851V |
+| [Next Name] | [Next Registration Number] |
+
