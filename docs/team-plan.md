@@ -36,12 +36,17 @@ The meeting was opened by Devonna Nyemba and the group discussed the progress of
 2.Allocation of tasks 
 
 Tasks were allocated to members as follows : 
+
 Pamela Mugonda , Tanaka Dzitiro , Stanley Nguluvhe , Andy Mbodza - Check data and prepare samples 
+
 Malcolm Mahlengezana , Ashly Keith Ushe ,Kuonga Terence Mapako ,Tanaka Maunga   - Prepare to explain aim and expected output 
+
 Pardon Karimanzira , Eliwedd Muzavazi , Recaldo Chapfuwa ,Devonna Nyemba - Implement FIFO and LRU on Python simulator 
+
 It was agreed that each member will focus on their allocated role to avoid duplication of work .
 
 3.Research
+
 Pamela Mugonda ,Pardon Karimanzira , Eliwedd Muzavazi , Recaldo Chapfuwa and Devonna Nyemba  reported that research on FIFO and LRU has been done. Sample data for testing the simulator was checked and prepared. The team discussed how the data will be used to test both algorithms.
 
 4. Chapter 1
