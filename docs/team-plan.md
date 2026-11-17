@@ -60,19 +60,23 @@ The team discussed Chapter 1 of the report. Chapter 1 covers the introduction, a
 - Chapter 1 will be reviewedand typed by the writing team according to what was discussed today.
 
 6. Next Meeting
-   
+   The next meeting will focus on reviewing Chapter 1 and starting the Python simulator for FIFO and LRU.
+
+*Minutes Taken By:* Pamela Mugonda
+
 Date: 17/11/26
+
 1. Opening
 The team discussed the background of FIFO and the LRU replacement algorithm, as decided in the last meeting.
+
 2. Allocated Tasks Completed
 Members presented their allocated tasks: research on check data, preparation of samples, and an explanation of the aim and expected output.
+
 3. Decisions Made
 The team decided to carry out further research.
+
 4. Next Meeting
 The next meeting will round up Chapter 1 and mark the beginning of Chapter 2.
 Minutes taken by Pardon Karimanzira. The meeting took 45 minutes to complete
-The next meeting will focus on reviewing Chapter 1 and starting the Python simulator for FIFO and LRU.
 
-*Minutes Taken By:* Pamela Mugonda
-*Confirmed By:* Devonna Nyemba
 
