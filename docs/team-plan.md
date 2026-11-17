@@ -78,7 +78,7 @@ The team decided to carry out further research.
 4. Next Meeting
 The next meeting will round up Chapter 1 and mark the beginning of Chapter 2.
 
-Minutes taken by Pardon Karimanzira. 
-The meeting took 45 minutes to complete
+ Minutes taken by Pardon Karimanzira. 
+ The meeting took 45 minutes to complete
 
 
