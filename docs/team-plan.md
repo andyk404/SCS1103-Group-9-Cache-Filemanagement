@@ -81,4 +81,29 @@ The next meeting will round up Chapter 1 and mark the beginning of Chapter 2.
  Minutes taken by Pardon Karimanzira. 
  The meeting took 45 minutes to complete
 
+ ## Meeting minutes
+
+Date : 20/11/26
+
+1.Opening 
+During our last meeting, the team reviewed Chapter 1. We examined how FIFO and LRU decide which cached block to evict when capacity is exhausted, and why this matters in Zimbabwe, where many people rely on older, shared, low-end machines. We also finalised our primary research question and objectives. Specifically, we will consider LRU superior only if its hit rate exceeds FIFO's by at least 5% across three of the five cache sizes under evaluation. We also defined the project scope and identified its limitations.
+
+We then began Chapter 2 by outlining the core theoretical framework, thematic review, and critical comparison of existing research. This process led us to identify the research gap: no direct, controlled comparison of FIFO and LRU has yet been conducted using the Meta trace. We will therefore align our profiling approach to address this gap.
+
+2.Allocated tasks 
+The team maintained the previous tasks given to each member . 
+
+3.Decision Made 
+The team decided to roundup chapter 1 and complete chapter 2 in the next meeting . 
+
+4.Next meeting 
+The next meeting will round up Chapter 2 and mark the beginning of Chapter 3.
+
+ Minutes taken by Pardon Karimanzira. 
+ The meeting took 45 minutes to complete
+
+
+
+
+
 
